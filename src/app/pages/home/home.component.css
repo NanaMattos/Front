@@ -1,13 +1,15 @@
+
 .container {
   color: white;
+  text-shadow: 0.2vh 0.1vh 0vh #0686A8;
 }
 
-h5 {
+h3 {
   font-family: 'Major Mono Display', monospace;
   padding: 3vh;
 }
 
-h6 {
+h5 {
   font-family: 'Montserrat', sans-serif;
 
 }

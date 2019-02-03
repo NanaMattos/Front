@@ -7,4 +7,9 @@ img {
 h5 {
   font-family: 'Major Mono Display', monospace;
   padding-top: 3vh;
+  color: white;
+}
+
+.container {
+  padding-top: 10vh;
 }

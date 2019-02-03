@@ -1,5 +1,5 @@
 nav {
-	margin-bottom: 20vh;
+	margin-bottom: 15vh;
 }
 
 .nav-wrapper {
@@ -8,4 +8,10 @@ nav {
 
 .nav-content {
 	font-family: 'Montserrat', sans-serif;
+}
+
+@media only screen and (max-width:768px) {
+	.nav-content {
+		margin-top: 10vh;
+	}
 }
