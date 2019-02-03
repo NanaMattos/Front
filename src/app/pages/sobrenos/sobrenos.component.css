@@ -1,0 +1,18 @@
+h5 {
+  font-family: 'Major Mono Display', monospace;
+  padding-top: 3vh;
+}
+
+p {
+  color: black;
+}
+
+.container {
+  margin-top: 4vh;
+  font-family: 'Montserrat', sans-serif;
+}
+
+img {
+  width: 60vh;
+  margin-top: 9vh;
+}

@@ -1,0 +1,13 @@
+body {
+	background-image: url("img/flor.jpg");
+	height: 100%;
+	background-attachment: fixed;
+}
+
+nav {
+	color: black;
+}
+
+.nav-wrapper {
+	font-family: 'Pacifico', cursive;
+}

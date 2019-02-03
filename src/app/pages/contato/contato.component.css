@@ -1,0 +1,14 @@
+h5 {
+  font-family: 'Major Mono Display', monospace;
+  color: white;
+}
+
+h6 {
+  color:white;
+  font-family: 'Montserrat', sans-serif;
+}
+
+form {
+  margin-bottom: 20vh;
+  font-family: 'Montserrat', sans-serif;
+}
